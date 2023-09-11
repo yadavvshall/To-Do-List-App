@@ -1,5 +1,7 @@
 # To-Do-List-App
 
+![To-Do-List-App Screenshot](screenshot.png)
+
 
 A simple web-based to-do list application built with HTML, CSS, and JavaScript.
 
